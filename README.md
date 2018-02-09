@@ -12,6 +12,9 @@ Finds the sum of all even fibonacci numbers whose value does not exceed four mil
 **[Three & Five](https://github.com/j-afarian/Java/blob/master/ThreeAndFive.java)**  
 Finds the sum of all multiples of 3 and 5 below 1000.
 
+**[Floor Tiles](https://github.com/j-afarian/Java/blob/master/FloorTiles.java)**  
+Calculate the cost of floor tiles given the width and height of the floor, and cost of tiles as per user input.
+
 ## Text
 **[FizzBuzz](https://github.com/j-afarian/Java/blob/master/fizzbuzz.java)**  
 Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
